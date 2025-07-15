@@ -7,12 +7,12 @@ A responsive React-based dashboard that allows users to navigate between multipl
 ## 🚀 Features
 
 - 🔄 Sidebar-based navigation with views:
-  - Dashboard (placeholder)
+  - Dashboard 
   - RFPs
   - Scientist List
   - Scientist Profile View
   - Invoices
-  - Feed (placeholder)
+  - Feed
 - 👩‍🔬 Scientist list with clickable profile view
 - 📄 Invoice section
 - 📋 RFP (Request for Proposal) module
